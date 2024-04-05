@@ -8,6 +8,9 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-11.0-FF2D20)
 ![PHP](https://img.shields.io/badge/PHP-8.2-8892BF)
-![Kotlin](https://img.shields.io/badge/Kotlin-1.5.20-0095D5)
+![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-3.2-092E20?style=flat&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 📚 Let's connect and explore the exciting world of software development together!
