@@ -10,7 +10,7 @@
 I'm a Software Development Engineering student at CETI, passionate about mathematics, philosophy, and music. Currently, I'm diving into PHP for backend development and working as a software developer at a leading hardware conglomerate, where I focus on crafting cutting-edge digital platform management solutions.
 
 ## 💻 What I Do
-I love building applications and exploring new technologies. I'm passionate about leveraging technology to streamline processes and enhance user experiences. Currently, I'm spearheading the development of innovative solutions to optimize digital platforms in the hardware industry.
+I love building applications and exploring new technologies. I'm passionate about leveraging technology to streamline processes and enhance user experiences. Currently, I'm spearheading the development of innovative solutions to optimize digital platforms in the Software industry.
 
 ## 🔧 Collaboration
 I'm excited to collaborate on projects that push the boundaries of software development and drive impactful change in the digital landscape of hardware management.
