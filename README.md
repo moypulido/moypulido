@@ -5,6 +5,11 @@
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-3.2-092E20?style=flat&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=flat&logo=git&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-UI_Toolkit-4285F4?style=flat&logo=android&logoColor=white)
+
 
 ## 🚀 About Me
 I'm a Software Development Engineering student at CETI with a deep passion for mathematics, philosophy, and music. I'm currently focusing on backend development using PHP and Laravel, while also exploring the powerful capabilities of Python and Django.
@@ -24,15 +29,10 @@ In my current role as a software developer at a leading hardware conglomerate, I
 
 ## 🔧 Collaboration
 I'm open to collaborating on:
-
-Innovative backend development projects
-
-Tools that improve developer productivity
-
-Open-source contributions
-
-Academic research at the intersection of technology and philosophy
-
+  -Innovative backend development projects
+  -Tools that improve developer productivity
+  -Open-source contributions
+  -Academic research at the intersection of technology
 If you have a project that could benefit from a curious mind and a strong backend developer—let’s talk!
 
 ## 📚 Connect with Me
