@@ -1,41 +1,45 @@
-# 👋 Hello, I'm Moises Noe Pulido Gutierrez!
+# 👋 Hi, I'm Moisés Noé Pulido Gutiérrez
 
-![Laravel](https://img.shields.io/badge/Laravel-11.0-FF2D20)
-![PHP](https://img.shields.io/badge/PHP-8.2-8892BF)
-![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-3.2-092E20?style=flat&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-VersionControl-F05032?style=flat&logo=git&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-UI_Toolkit-4285F4?style=flat&logo=android&logoColor=white)
+Software developer from Guadalajara, Mexico. I build backend systems, data pipelines, and AI-assisted tooling.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![LoopBack](https://img.shields.io/badge/LoopBack-3F5DFF?style=flat&logo=loopback&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM_Db2-052FAD?style=flat)
+![OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 
 ## 🚀 About Me
-I'm a Software Development Engineering student at CETI with a deep passion for mathematics, philosophy, and music. I'm currently focusing on backend development using PHP and Laravel, while also exploring the powerful capabilities of Python and Django.
 
-In my current role as a software developer at a leading hardware conglomerate, I design and implement robust solutions for managing digital platforms in the tech industry.
+- 💼 Software Developer Intern at **IBM** (Supply Chain), building an order-visibility dashboard on a legacy system with React, LoopBack, and Db2 on OpenShift, saving the logistics team ~400 hours per year
+- 📊 Previously Data Analyst at **Garanti Mobile**, where I built a Python pipeline tracking 25,000 SKUs across 12 marketplaces (Mercado Libre, Amazon) into a PostgreSQL data warehouse and Power BI
+- 🤖 Daily user of AI coding agents (Claude Code, IBM Bob) and interested in LLM security
+- 🎓 Software Development Engineering student at CETI, graduating Dec 2026
+- 🎹 Outside code: mathematics, philosophy, and music
 
-## 💻 What I Do
-🧩 Building scalable backend systems using Laravel & Django
+## 🛠️ Featured Projects
 
-🛠️ Developing automation tools and process optimization scripts in Python
+| Project | What it does | Stack |
+|---|---|---|
+| [**Leaf**](https://leafdocs.com.mx/en/) | Open-source framework of reusable Android modules (Actions and Workflows) with an AI agent skill for building new modules | Kotlin, Jetpack Compose, Gradle |
+| [**prompt_injection_approach**](https://github.com/moypulido/prompt_injection_approach) | Shows how poisoned vector DB records hijack a RAG pipeline to leak credit card data, and a 3-layer mitigation | Python, FastAPI, PostgreSQL + pgvector, Cohere |
+| [**pokemon_replica**](https://github.com/moypulido/pokemon_replica) | Game Boy battle engine rebuilt from emulator memory analysis, with AES encryption and SHA-256 tamper detection | Python, pygame, cryptography |
 
-🔍 Studying software architecture principles (SOLID, DDD, service layer, etc.)
+## 🤝 Open To
 
-🚢 Containerizing apps with Docker for reproducibility and easy deployment
+- Backend, data, and AI engineering roles
+- Developer productivity tools and open-source collaboration
 
-📊 Working with SQL for data analysis and backend integration/
+## 📫 Contact
 
-## 🔧 Collaboration
-I'm open to collaborating on:
-  -Innovative backend development projects
-  -Tools that improve developer productivity
-  -Open-source contributions
-  -Academic research at the intersection of technology
-If you have a project that could benefit from a curious mind and a strong backend developer—let’s talk!
-
-## 📚 Connect with Me
-🔗 https://www.linkedin.com/in/mois%C3%A9s-noe-pulido-guti%C3%A9rrez-866244317/
-
-📧 m.npg25@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moypulido-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moypulido)
+[![Email](https://img.shields.io/badge/Email-m.npg@outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:m.npg@outlook.com)
