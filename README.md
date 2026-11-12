@@ -33,6 +33,7 @@ Software developer from Guadalajara, Mexico. I build backend systems, data pipel
 | [**Leaf**](https://leafdocs.com.mx/en/) | Open-source framework of reusable Android modules (Actions and Workflows) with an AI agent skill for building new modules | Kotlin, Jetpack Compose, Gradle |
 | [**prompt_injection_approach**](https://github.com/moypulido/prompt_injection_approach) | Shows how poisoned vector DB records hijack a RAG pipeline to leak credit card data, and a 3-layer mitigation | Python, FastAPI, PostgreSQL + pgvector, Cohere |
 | [**pokemon_replica**](https://github.com/moypulido/pokemon_replica) | Game Boy battle engine rebuilt from emulator memory analysis, with AES encryption and SHA-256 tamper detection | Python, pygame, cryptography |
+| [**dvwa-ai-triage**](https://github.com/moypulido/dvwa-ai-triage) | Scans every pull request, an AI suggests a triage, a human decides, and every decision is logged and measured against a public metrics dashboard | GitHub Actions, Semgrep, Gitleaks, Trivy, n8n, Python |
 
 ## 🤝 Open To
 
